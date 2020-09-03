@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    },
+    "autoload": {
+        "classmap": [
+            "resource/Helpers.php"
+        ]
+    },
+    "require": {
+        "ext-ftp": "*"
+    }
+}
